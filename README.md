@@ -1,2 +1,0 @@
-    - [Preview](https://ggazila.github.io/pages/)
-    - [Pull Request](https://github.com/ggazila/pages/pull/1/files)
